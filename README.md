@@ -1,4 +1,5 @@
 ### Welcome 👋
+삼육대학교 컴퓨터공학부 19학번 백엔드 개발자 최승민입니다~
 
 <!--
 **choivember/choivember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
